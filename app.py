@@ -21,19 +21,19 @@ st.caption("Click on a dot on the pitch to inspect the event.")
 # ==========================
 box_positioning_matches_data = {
     "Vs San Jose": [
-        (99.06, 49.81, None),
-        (98.40, 54.46, None),
-        (99.56, 26.70, None),
-        (110.54, 36.51, None),
-        (104.38, 52.30, None),
+        (99.06, 49.81, "videos/1 - SJ"),
+        (98.40, 54.46, "videos/4 - SJ"),
+        (99.56, 26.70, "videos/5 - SJ"),
+        (110.54, 36.51, "videos/3 - SJ"),
+        (104.38, 52.30, "videos/2 - SJ"),
     ],
     "Vs Copehagen": [
-        (93.25, 28.86, None),
-        (110.87, 42.16, None),
-        (103.72, 55.46, None),
+        (93.25, 28.86, "videos/3 - CP"),
+        (110.87, 42.16, "videos/1 -CP"),
+        (103.72, 55.46, "videos/2 - CP"),
     ],
     "Vs Sporting": [
-        (96.41, 49.48, None),
+        (96.41, 49.48, "videos/1 - SP.mp4"),
     ],
 }
 
